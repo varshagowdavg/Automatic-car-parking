@@ -21,6 +21,9 @@ It helps in automatic vehicle detection, path planning, and parking management.
    pip install -r requirements.txt
 3. Run:
    python main_autopark.py
+   
+## 📸 Output Screenshots
+
 
 ## 👩‍💻 Developed By
 Varsha Gowda
