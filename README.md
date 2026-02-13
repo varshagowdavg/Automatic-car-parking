@@ -1,2 +1,27 @@
-# Automatic-car-parking
-Automatic Car Parking System is a technology-based method to park cars without human effort. It uses sensors, lifts, and conveyors to automatically place vehicles in available slots. This system saves space, time, and reduces the risk of accidents or scratches.
+# Automatic Car Parking System 🚗
+
+# 📌 Description
+This project implements an Automatic Car Parking System using Python.
+It helps in automatic vehicle detection, path planning, and parking management.
+
+## 🛠 Technologies Used
+- Python
+- NumPy
+- OpenCV (if used)
+- Git & GitHub
+
+## 📂 Project Structure
+- CAR kinematic model/ → Main logic
+- extra/ → Images and outputs
+- requirements.txt → Dependencies
+
+## ▶️ How to Run
+1. Install Python
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run:
+   python main_autopark.py
+
+## 👩‍💻 Developed By
+Varsha Gowda
+
