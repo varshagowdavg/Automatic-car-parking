@@ -24,6 +24,23 @@ It helps in automatic vehicle detection, path planning, and parking management.
    
 ## 📸 Output Screenshots
 
+### 🚗 Double Parking Detection
+![Double Parking](extra/double_parking.png)
+
+### 🌍 Environment View
+![Environment](extra/environment.png)
+
+### 🅿️ Parking Slot View
+![Parking](extra/parking1.png)
+
+### 🛣️ Path Tracking (Stage 1)
+![Path Tracking 1](extra/path_tracking1.png)
+
+### 🛣️ Path Tracking (Stage 2)
+![Path Tracking 2](extra/path_tracking2.png)
+
+### 🚧 Obstacle Detection
+![Obstacle](extra/rahneshan_obstacle.png)
 
 ## 👩‍💻 Developed By
 Varsha Gowda
